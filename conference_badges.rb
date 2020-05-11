@@ -33,8 +33,7 @@ assign_rooms(attendees)
 
 
 def printer(array)
-  batch_badge_creator(array)
-  assign_rooms(array)
+  array = gets.chomp!
 end
 
 printer(attendees)
