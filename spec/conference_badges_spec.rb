@@ -87,7 +87,7 @@ TEXT
     end
 
   end
-=begin
+
   describe '#printer' do
 
     # Question 4
@@ -107,5 +107,5 @@ TEXT
     end
 
   end
-=end
+
 end
