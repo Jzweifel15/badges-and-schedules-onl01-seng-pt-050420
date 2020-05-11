@@ -33,7 +33,7 @@ assign_rooms(attendees)
 
 
 def printer(array)
-  array = gets.chomp!
+  array = gets.chomp
 end
 
 printer(attendees)
