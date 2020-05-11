@@ -33,12 +33,7 @@ assign_rooms(attendees)
 
 
 def printer(array)
-  badges = []
   puts batch_badge_creator(array)
-  array.each do |attendee|
-    badges.push("Hello, my name is #{attendee}.")
-  end
-  
   puts assign_rooms(array)
 end
 
