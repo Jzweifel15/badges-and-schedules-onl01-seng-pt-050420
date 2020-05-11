@@ -49,7 +49,8 @@ Hello, Grace! You'll be assigned to room 5!
 Hello, Linus! You'll be assigned to room 6!
 Hello, Matz! You'll be assigned to room 7!
 TEXT
-}=end
+}
+=end
 
   describe '#badge_maker' do
 
