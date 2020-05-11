@@ -32,7 +32,7 @@ describe 'conference_badges' do
 
 # For more info about heredocs, see this link:
 # http://en.wikibooks.org/wiki/Ruby_Programming/Here_documents
-
+=begin
   let(:badges_and_room_assignments) {<<-TEXT
 Hello, my name is Edsger.
 Hello, my name is Ada.
@@ -49,7 +49,7 @@ Hello, Grace! You'll be assigned to room 5!
 Hello, Linus! You'll be assigned to room 6!
 Hello, Matz! You'll be assigned to room 7!
 TEXT
-}
+}=end
 
   describe '#badge_maker' do
 
