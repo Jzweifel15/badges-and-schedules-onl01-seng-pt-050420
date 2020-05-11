@@ -105,7 +105,7 @@ TEXT
       end
       printer(attendees)
     end
-=end
-  end
 
+  end
+=end
 end
